@@ -1,2 +1,2 @@
-Cassandra jpa
+Cassandra jpa 2
 in master 2
