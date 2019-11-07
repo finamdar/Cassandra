@@ -1,2 +1,2 @@
-sadasdsada
+Cassandra jpa
 in master
