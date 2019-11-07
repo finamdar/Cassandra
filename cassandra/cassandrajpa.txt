@@ -1,2 +1,2 @@
 Cassandra jpa 2
-in master
+in master 2
