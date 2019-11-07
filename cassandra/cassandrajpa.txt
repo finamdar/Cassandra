@@ -1,1 +1,1 @@
-sadasdsada
+Cassandra jpa
